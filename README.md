@@ -1,1 +1,1 @@
-# Learning_demo_for_deploying_and_accelerating_TensorFlow_models_with_TensorRT
+# Learning demo for deploying and accelerating TensorFlow models with TensorRT
